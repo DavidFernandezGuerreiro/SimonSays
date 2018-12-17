@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimonSays</string>
+    <string name="azul">AZUL</string>
+    <string name="amarillo">AMARILLO</string>
+    <string name="verde">VERDE</string>
+    <string name="rojo">ROJO</string>
+    <string name="boton_start">START GAME</string>
+</resources>
